@@ -1,16 +1,15 @@
 import React from 'react';
 import Character from './Character/Character';
-import avengers from './Character/avengersData';
 import { Grid, Container} from 'semantic-ui-react';
-const CharacterView = () => {
-    const avengerCards = avengers.map(avenger => <Character key={avenger.key} image={avenger.image} name={avenger.name} />)
-    return (
+class CharacterView extends React.Component {
+       
+    render(){return (
         <Container>
             <Grid columns={8}>
-                {avengerCards}
+                {this.props.avengers.map(avenger => <Character key={avenger.key} id={avenger.key} image={avenger.image} name={avenger.name} cardClickedEvent={this.props.cardClickedEvent}/>)}
             </Grid>
         </Container>
-    )
+    )}
 }
 
 export default CharacterView;
