@@ -9,7 +9,6 @@ class Character extends React.Component {
 
     state = {
         hover:false,
-        clicked:false,
     }
 
     handleMouseOver = () => {

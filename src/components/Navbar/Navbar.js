@@ -23,7 +23,7 @@ class Navbar extends React.Component {
                             <h5
                                 style={{ color: 'white', marginTop: '10px', marginRight:'10px' }}
                             >
-                                click picture to start!
+                                click picture to start! {/* this.props.message */}
                             </h5>
                         </Container>
                     </Grid.Column>
@@ -32,7 +32,7 @@ class Navbar extends React.Component {
                             <h5
                                 style={{ color: 'white', marginTop: '10px', marginRight:'10px' }}
                             >
-                                Score:0 | Top Score: 0
+                               Score:0 | Top Score: 0 {/* this.props.score this.props.topScore */}
                             </h5>
                         </Container>
                     </Grid.Column>
