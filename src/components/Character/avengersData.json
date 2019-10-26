@@ -1,0 +1,223 @@
+[
+    {
+        "key": 1,
+        "name": "Tony Stark",
+        "image": "./images/tony-stark.jpeg",
+        "clicked" : false
+    },
+    {
+        "key": 2,
+        "name": "Ant Man",
+        "image": "./images/ant-man.jpeg",
+        "clicked" : false
+    },
+    {
+        "key": 3,
+        "name": "Black Panther",
+        "image": "./images/black-panther.jpeg",
+        "clicked" : false
+      
+    },
+    {
+        "key": 4,
+        "name": "Black Widow",
+        "image": "./images/black-widow.jpeg",
+        "clicked" : false
+    
+    },
+    {
+        "key": 5,
+        "name": "Bucky",
+        "image": "./images/bucky.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 6,
+        "name": "Captain America",
+        "image": "./images/captain-america.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 7,
+        "name": "Captain Marvel",
+        "image": "./images/captain-marvel.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 8,
+        "name": "Doctor Strange",
+        "image": "./images/doctor-strange.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 9,
+        "name": "Drax",
+        "image": "./images/drax.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 10,
+        "name": "falcon",
+        "image": "./images/falcon.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 11,
+        "name": "Gamora",
+        "image": "./images/gamora.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 12,
+        "name": "Groot",
+        "image": "./images/groot.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 13,
+        "name": "Happy",
+        "image": "./images/happy.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 14,
+        "name": "Hawkeye",
+        "image": "./images/hawkeye.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 15,
+        "name": "Hulk",
+        "image": "./images/hulk.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 16,
+        "name": "Loki",
+        "image": "./images/loki.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 17,
+        "name": "Mantis",
+        "image": "./images/mantis.jpg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 18,
+        "name": "Nebula",
+        "image": "./images/nebula.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 19,
+        "name": "Nick Fury",
+        "image": "./images/nick-fury.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 20,
+        "name": "Okoye",
+        "image": "./images/okoye.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 21,
+        "name": "Pepper Potts",
+        "image": "./images/pepper-potts.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 22,
+        "name": "Rocket Racoon",
+        "image": "./images/rocket.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 23,
+        "name": "Scarlet Witch",
+        "image": "./images/scarlet-witch.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 24,
+        "name": "Shuri",
+        "image": "./images/shuri.jpeg",
+        "clicked" : false
+    },
+    {
+        "key": 25,
+        "name": "Spider-Man",
+        "image": "./images/spider-man.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 26,
+        "name": "Star Lord",
+        "image": "./images/star-lord.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 27,
+        "name": "Thor",
+        "image": "./images/thor.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 28,
+        "name": "Valkyrie",
+        "image": "./images/valkyrie.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 29,
+        "name": "Vision",
+        "image": "./images/vision.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 30,
+        "name": "War Machine",
+        "image": "./images/war-machine.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 31,
+        "name": "Wasp",
+        "image": "./images/wasp.jpeg",
+        "clicked" : false
+        
+    },
+    {
+        "key": 32,
+        "name": "Wong",
+        "image": "./images/wong.jpg",
+        "clicked" : false
+        
+    }
+]
